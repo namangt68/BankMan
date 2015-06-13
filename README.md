@@ -1,11 +1,8 @@
 # BankMan
 Bank Management System
-
-Installation
-
+_>Installation
 Please import the database (BankMan.sql), and fill in the credentials in the server_connect.inc.php
 
-This should do the magic.
 
 Table of Contents
 
