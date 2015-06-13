@@ -3,7 +3,7 @@ Bank Management System
 
 ->Installation
 
-Please import the database (BankMan.sql), and fill in the credentials in the server_connect.inc.php
+    Please import the database (BankMan.sql), and fill in the credentials in the server_connect.inc.php
 
 
 Table of Contents
@@ -15,12 +15,12 @@ Table of Contents
 
     
     2. Description     
-     2.1 Features and Functions   	
-     2.2 Users classes and characteristics   	
-     2.3 Operating Environment       	
-       2.3.1 Hardware   	
-       2.3.2 Software 	
-       2.3.3 External         	
+    2.1 Features and Functions   	
+    2.2 Users classes and characteristics   	
+    2.3 Operating Environment       	
+      2.3.1 Hardware   	
+      2.3.2 Software 	
+      2.3.3 External         	
    
 
      3. Specific Requirements  	
