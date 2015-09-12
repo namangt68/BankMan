@@ -3,7 +3,7 @@ Bank Management System
 
  Installation
 
-    Please import the database (BankMan.sql), and fill in the credentials in the server_connect.inc.php
+  Please import the database (BankMan.sql), and fill in the credentials in the server_connect.inc.php
 
 
 Table of Contents
